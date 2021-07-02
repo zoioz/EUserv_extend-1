@@ -6,8 +6,8 @@ from bs4 import BeautifulSoup
 
 # 强烈建议部署在非大陆区域，例如HK、SG等
 
-USERNAME = '' # 这里填用户名，邮箱也可
-PASSWORD = ''  # 这里填密码
+USERNAME = 'zibuyu789@gmail.com' # 这里填用户名，邮箱也可
+PASSWORD = 'zz334434'  # 这里填密码
 
 # Server酱 http://sc.ftqq.com/?c=code
 SCKEY = '' # 这里填Server酱的key，无需推送可不填 示例: SCU646xxxxxxxxdacd6a5dc3f6
